@@ -12,7 +12,7 @@ To write an algorithm that guesses a computer generated number in a minimum numb
 
 #### Conditions
 
-Using Python's NumPy library computer generates a random integer from 1 to 100, and the user (you) needs to guess it
+Using [Python's NumPy library](https://github.com/tori938/PROJECT-0/blob/main/requirements.txt) computer generates a random integer from 1 to 100, and the user (you) needs to guess it
 
 #### Quality Metric
 
@@ -29,8 +29,10 @@ Results are assessed by the average number of attempts per 1000 repetitions.
 
 ### Work Stages
 - reviewed the initial code in [*game*](https://github.com/tori938/PROJECT-0/blob/main/game_v1.py) and noted down the number of attempts made, i.e. by using the binary tree search the number of attempts can be reduced to =< 8
-- reviewed the secondary code in *random_predict* that simply selects a random number from 1 to 100
-- adjusted the code from *random_predict* to create *guess_the_number* algorithm that uses the binary search to find the number
+- reviewed the secondary code in [*random_predict*](https://github.com/tori938/PROJECT-0/blob/main/game_v2.ipynb
+) that simply selects a random number from 1 to 100
+- adjusted the code from *random_predict* to create [*guess_the_number*](https://github.com/tori938/PROJECT-0/blob/main/guess_the_number.ipynb
+) algorithm that uses the binary search to find the number
 
 :arrow_up:[Table of Contents](README.md#table-of-contents)
 
