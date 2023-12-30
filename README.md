@@ -1,10 +1,10 @@
 ## **Project 0: Guess the Number**
 
 ## Table of Contents
-1. Work Problem(README.md#work-problem)
-2. Work Stages(README.md#work-stages)
-3. Results(README.md#results)
-4. Conclusions(README.md#conclusion)
+1. Work Problem
+2. Work Stages
+3. Results
+4. Conclusions
 
 
 ### Work Problem
@@ -36,9 +36,9 @@ Results are assessed by the average number of attempts per 1000 repetitions.
 
 
 ### Results
-(1) algorithm in *game* requires the user input to guess the number, i.e. number of attempts dependent on the user
-(2) algorithm in *random_predict* guesses the number in 101 attempts on average
-(3) algorithm in *guess_the_number* guesses the number in 5 attempts on average
+1. algorithm in *game* requires the user input to guess the number, i.e. number of attempts dependent on the user
+2. algorithm in *random_predict* guesses the number in 101 attempts on average
+3. algorithm in *guess_the_number* guesses the number in 5 attempts on average
 
 :arrow_up:[Table of Contents](README.md#table-of-contents)
 
