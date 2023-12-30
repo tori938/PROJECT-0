@@ -28,7 +28,7 @@ Results are assessed by the average number of attempts per 1000 repetitions.
 
 
 ### Work Stages
-- reviewed the initial code in *game* and noted down the number of attempts made, i.e. by using the binary tree search the number of attempts can be reduced to =< 8
+- reviewed the initial code in [*game*](https://github.com/tori938/PROJECT-0/blob/main/game_v1.py) and noted down the number of attempts made, i.e. by using the binary tree search the number of attempts can be reduced to =< 8
 - reviewed the secondary code in *random_predict* that simply selects a random number from 1 to 100
 - adjusted the code from *random_predict* to create *guess_the_number* algorithm that uses the binary search to find the number
 
