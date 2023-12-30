@@ -1,10 +1,10 @@
 ## **Project 0: Guess the Number**
 
 ## Table of Contents
-⬇️:[Work Problem](README.md#work-problem)
-⬇️:[Work Stages](README.md#work-stages)
-⬇️:[Results](README.md#results)
-⬇️:[Conclusion](README.md#conclusion)
+1. ⬇️:[Work Problem](README.md#work-problem)
+2. ⬇️:[Work Stages](README.md#work-stages)
+3. ⬇️:[Results](README.md#results)
+4. ⬇️:[Conclusion](README.md#conclusion)
 
 
 ### Work Problem
